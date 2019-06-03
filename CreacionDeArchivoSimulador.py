@@ -1,6 +1,6 @@
 ##Suponemos que 50 personas hicieron compras en una semana, sin limite de productos, y piezas de los mismos, que pueden comprar, y en la Tienda hay un inventario ilimitado
 ##Lo que haremos ahora será una lista de los 100 clientes con sus respectivas listas de artículos comprados (carritos). Todo sera aleatorio, asi podemos hacer una buena estadistica 
-##La estadistica que buscamos es ver que marca se vendio mas en esa semana 
+##La estadistica que buscamos es ver el porcentaje que vendio cada marca de acuerdo a las ventas totales en esa semana.
 
 import random as r
 
