@@ -1,7 +1,6 @@
 ##En este archivo calcularemos las cifras de donde haremos las graficas
 
 ##Primero clasificaremos los productos de acuerdo a su marca
-import matplotlib.pyplot as plt
 
 LEGO = ["muneco","vehiculo"]
 Apache = ["triciclo"]
