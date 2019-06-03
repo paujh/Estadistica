@@ -1,0 +1,6 @@
+La marca LEGO vendio un total de piezas: 58
+La marca Apache vendio un total de piezas: 25
+La marca DISNEYCOLLECTION vendio un total de piezas: 115
+La marca CILEK vendio un total de piezas: 28
+La marca TOYSTORY vendio un total de piezas: 30
+La marca LOL vendio un total de piezas: 35
